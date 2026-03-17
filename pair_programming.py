@@ -4,3 +4,7 @@ def polar_to_cartesian(r, theta):
     x= r * np.cos(theta)
     y = r* np.sin(theta)
     return x,y
+
+#Feedback: 
+#The function is correct and easy to read.
+#Adding a comment explaining the inputs would make it even clearer.
